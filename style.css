@@ -1,0 +1,36 @@
+#toolbox{
+	color: white;
+	background-color: pink;
+	margin-top: 5px;
+	width: 200px;
+	height: 50px;
+}
+#tools{
+	margin-top: 10px;
+	background-color: pink;
+	width: 200px;
+	height: 500px;
+
+}
+#screen{
+	
+	margin-top:-500px; 
+	background-color: pink;
+	height: 500px;
+}
+.bilesen {
+	position: absolute;
+	width: 100px;
+	height: 50px;
+}
+
+.lamba {
+	width: 60px;
+	height: 98px;
+}
+
+.dugme {
+	width: 71px;
+	height: 70px;
+}
+
